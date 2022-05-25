@@ -25,6 +25,7 @@ log = print
 log("Hello How Are You")
 
 # if you want me to use the original print statement please let me know on Discord or Email Me
+#it would really help
 ```
 
 
